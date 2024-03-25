@@ -3,11 +3,6 @@
 
 Meu nome é Raphael Shodi Kawahara 
 Atualmente estou Cursando o Bacharelado em Ciencência da Computação no Centro Universitario Senac Santo Amaro
-
-* 🌱 Estou estudando atualmente 
-  * python IA
-  * kotlin para APP
-  
   
 
 <!--
